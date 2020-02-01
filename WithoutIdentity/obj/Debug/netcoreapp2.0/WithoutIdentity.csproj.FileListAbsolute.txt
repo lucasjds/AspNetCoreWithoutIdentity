@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\WithoutIdentity\WithoutIdentity\bin\Debug\netcoreapp2.0\WithoutIdentity.deps.json
+C:\Users\Lucas\source\repos\WithoutIdentity\WithoutIdentity\bin\Debug\netcoreapp2.0\WithoutIdentity.runtimeconfig.json
+C:\Users\Lucas\source\repos\WithoutIdentity\WithoutIdentity\bin\Debug\netcoreapp2.0\WithoutIdentity.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\WithoutIdentity\WithoutIdentity\bin\Debug\netcoreapp2.0\WithoutIdentity.dll
+C:\Users\Lucas\source\repos\WithoutIdentity\WithoutIdentity\bin\Debug\netcoreapp2.0\WithoutIdentity.pdb
+C:\Users\Lucas\source\repos\WithoutIdentity\WithoutIdentity\obj\Debug\netcoreapp2.0\WithoutIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\WithoutIdentity\WithoutIdentity\obj\Debug\netcoreapp2.0\WithoutIdentity.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\WithoutIdentity\WithoutIdentity\obj\Debug\netcoreapp2.0\WithoutIdentity.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\WithoutIdentity\WithoutIdentity\obj\Debug\netcoreapp2.0\WithoutIdentity.dll
+C:\Users\Lucas\source\repos\WithoutIdentity\WithoutIdentity\obj\Debug\netcoreapp2.0\WithoutIdentity.pdb
+C:\Users\Lucas\source\repos\WithoutIdentity\WithoutIdentity\obj\Debug\netcoreapp2.0\WithoutIdentity.csprojAssemblyReference.cache
